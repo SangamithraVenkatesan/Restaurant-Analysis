@@ -117,10 +117,19 @@ Number of outlets
 Relationship between price range and:
 Online delivery
 Table booking
-📈 Key Insights
+
+
+📈 **Key Insights**
+
+
 ⭐ Most restaurants fall in the 3–4 rating range
+
 🍜 North Indian & Chinese are most common cuisines
+
 🚚 Lower-priced restaurants → more online delivery
+
 🏨 Higher-priced restaurants → more table booking
+
 👍 Weak positive correlation between votes and ratings
+
 📍 Restaurants are clustered in high-demand urban areas
