@@ -3,7 +3,6 @@
 
 📌 **Overview**
 
-
 This project analyzes a restaurant dataset to extract meaningful insights about cuisines, ratings, pricing, and customer behavior.
 It uses Python (Pandas, Matplotlib, Scikit-learn, Folium) for data analysis and visualization.
 
